@@ -1,7 +1,7 @@
 name: Leeahd Grid test
 favicon: null
-layout_spectrum: 0.5126991341821849
-typography_spectrum: 0.5316727431491017
+layout_spectrum: 0.35521
+typography_spectrum: 0.35724
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.2024445382412523
-  lightness: 0.30429668026044965
-  saturation: 0.36170980148017406
+    - '#9deef2'
+    - '#ffffff'
+    - '#413ec9'
+    - '#62b3eb'
+    - '#392b2a'
+  brandStrength: 0.125
+  lightness: 0.3125
+  saturation: 0.3125
   rhythmicContrast: 0.6042654598131776
 purpose: []
